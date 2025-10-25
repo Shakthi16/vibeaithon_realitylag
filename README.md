@@ -145,12 +145,14 @@ graph TD
 ---
 
 ## 🎨 Live Demo: E-Commerce Prototype
-
 <div align="center">
 
-[![Figma Prototype]([https://img.shields.io/badge/🚀_View_Concept_Prototype-Figma-orange?style=for-the-badge&logo=figma](https://www.figma.com/make/78yzvIVgiqeqLyBdk02qcx/Futuristic-E-Commerce-Web-App--Community-?node-id=0-1&p=f&fullscreen=1))](https://www.figma.com)
+<a href="https://www.figma.com/proto/78yzvIVgiqeqLyBdk02qcx/Futuristic-E-Commerce-Web-App--Community-?node-id=0-1&p=f&fullscreen=1" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_View_Concept_Prototype-Figma-ff7361?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Prototype"/>
+</a>
 
 </div>
+
 
 ### 🛒 Demo Scenario: Price Manipulation Attack
 - **Attacker Action**: Changes $999 item to $9.99
